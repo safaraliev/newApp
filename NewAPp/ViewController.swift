@@ -10,9 +10,9 @@ import UIKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
-        super.viewDidLoad()
-        //nurik huesos
+        super.viewDidLoad
         //suka
+        //sam huesos suka
     }
 
 
