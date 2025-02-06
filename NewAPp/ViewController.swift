@@ -19,7 +19,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
        
         super.viewDidLoad()
+
         // Baia kotok
+      
+        //NUrik kotok
+
+      
         //suka
         //sam huesos suka
     }
