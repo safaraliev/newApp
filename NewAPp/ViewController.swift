@@ -17,19 +17,10 @@ class ViewController: UIViewController {
     var fact5 = "Baia Loh"
     
     override func viewDidLoad() {
+       
         super.viewDidLoad()
-        
-//        1
-//        1
-//        1
-//        1
-//        1
-//        1
-//        1
-//        1
-//        1
-//        1
-        
+        //suka
+        //sam huesos suka
     }
 
 
